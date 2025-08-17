@@ -17,7 +17,7 @@ C:/Users/LENOVO/Downloads/Automatic File Sorter Testing/
 ├── excel files/
 ├── image files/
 ├── pdf files/
-├── file_sorter.py   # Your Python script
+├── file_sorter.py   # The Python script
 ```
 
 > The script will automatically create the `excel files`, `image files`, and `pdf files` folders if they do not already exist.
